@@ -12,8 +12,8 @@ AI Threat Detection: Custom TensorFlow model (CNN) detects vehicles with >80% co
 Auto-Documentation: Automatically captures and saves timestamped images of intrusions.
 
 # Technologies Used
-  Simulation: ROS 2, Gazebo Garden/Classic.
-  Control: MAVSDK (Python), PX4 Autopilot.
+  Simulation: ROS 2, Gazebo .
+  Control: MAVSDK, PX4 Autopilot.
   AI/Vision: TensorFlow, Keras, OpenCV.
 
 # Installation & Setup
