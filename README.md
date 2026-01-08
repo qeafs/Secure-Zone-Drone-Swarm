@@ -23,6 +23,16 @@ Auto-Documentation: Automatically captures and saves timestamped images of intru
    git clone [https://github.com/YOUR_USERNAME/Secure-Zone-Swarm.git](https://github.com/YOUR_USERNAME/Secure-Zone-Swarm.git)
    cd Secure-Zone-Swarm
 
+   ```
+   # install the requiredments
+   ```
    pip3 install -r requirements.txt
+  `` 
+  Launch your PX4/Gazebo environment with 3 drones (x500).
 
+  Start the ROS-Gazebo Bridge for the camera:
+  ```
    ros2 run ros_gz_bridge parameter_bridge /world/baylandsnew/model/x500new_1/link/camera_link/sensor/camera/image@sensor_msgs/msg/Image@gz.msgs.Image
+```
+#Demo 
+
