@@ -37,7 +37,7 @@ Auto-Documentation: Automatically captures and saves timestamped images of intru
 # Demo
 
 ### 1. Swarm Flight (Grid Search)
-![Swarm Flight](demo_flight.png)
+![Swarm Flight](pic1.png)
 
 ### 2. AI Detection Alert
-![Detection Alert](demo_detection.png)
+![Detection Alert](pic2.png)
