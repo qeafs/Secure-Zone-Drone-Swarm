@@ -34,11 +34,10 @@ Auto-Documentation: Automatically captures and saves timestamped images of intru
   ```
    ros2 run ros_gz_bridge parameter_bridge /world/baylandsnew/model/x500new_1/link/camera_link/sensor/camera/image@sensor_msgs/msg/Image@gz.msgs.Image
 ```
-#Demo 
+# Demo
 
-![pic 1](Screenshot from 2026-01-07 20-55-21.png)
+### 1. Swarm Flight (Grid Search)
+![Swarm Flight](demo_flight.png)
 
-![pic2](Screenshot from 2026-01-07 20-55-13.png)
-
-![My Project Demo](Screenshot from 2026-01-07 20-55-13.png)
-
+### 2. AI Detection Alert
+![Detection Alert](demo_detection.png)
