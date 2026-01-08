@@ -20,7 +20,7 @@ Auto-Documentation: Automatically captures and saves timestamped images of intru
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Secure-Zone-Swarm.git](https://github.com/YOUR_USERNAME/Secure-Zone-Swarm.git)
+   git clone [https://github.com/qeafs/Secure-Zone-Swarm.git](https://github.com/qeafs/Secure-Zone-Swarm.git)
    cd Secure-Zone-Swarm
 
    ```
