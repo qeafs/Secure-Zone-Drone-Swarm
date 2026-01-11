@@ -1,5 +1,10 @@
 # Autonomous UAV Swarm for Secure Zone Reconnaissance 
 
+This project was a team effort made by:
+
+Mohammed Alsuhaim
+Nasser Alahmari
+Shafi Albogami 
 
 
 ## Project Overview
