@@ -8,7 +8,7 @@ Mohammed Alsuhaim  https://www.linkedin.com/in/mohammed-alsuhaim?utm_source=shar
 Nasser Alahmari  https://www.linkedin.com/in/nasser-alahmari-a86301367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
-Shafi Albogami 
+Shafi Albogami  https://www.linkedin.com/in/shafi-mansour-a7637036b/
 
 
 ## Project Overview
