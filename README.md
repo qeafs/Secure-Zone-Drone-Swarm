@@ -2,8 +2,12 @@
 
 This project was a team effort made by:
 
-Mohammed Alsuhaim
-Nasser Alahmari
+Mohammed Alsuhaim  https://www.linkedin.com/in/mohammed-alsuhaim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+Nasser Alahmari  https://www.linkedin.com/in/nasser-alahmari-a86301367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+
 Shafi Albogami 
 
 
